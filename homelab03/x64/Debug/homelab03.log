@@ -1,0 +1,3 @@
+﻿  home03.c
+C:\Users\user\source\repos\homelab03\home03.c(10,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  homelab03.vcxproj -> C:\Users\user\source\repos\homelab03\x64\Debug\homelab03.exe
